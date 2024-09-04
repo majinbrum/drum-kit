@@ -43,7 +43,7 @@ In Drum Kit you can play different drum sounds using your keyboard. Each key cor
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
  	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-     	<img src="    https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="JQuery" />
+     	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="JQuery" />
 </div>
 
 ### Key Feature
